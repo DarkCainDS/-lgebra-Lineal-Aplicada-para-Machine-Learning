@@ -1,0 +1,6 @@
+Autovectores:
+Son vectores cuya dirección no se modifica al aplicarle la trasformación de una matriz, el sentido y el tamaño sí puede variar. El valor que transforma el vector inicial en el vector final se llama autovalor.
+Notas:
+
+Sólo las matrices cuadradas tienen autovectores.
+Hay tantos autovectores como la dimención de la matriz

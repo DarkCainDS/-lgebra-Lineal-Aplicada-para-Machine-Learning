@@ -1,0 +1,2 @@
+np.linalg.eig(x) - Obtiene los autovalores y autovectores asociados
+Los autovectores encontrados por numpy son un múltiplo del propuesto en el ejercicio. Los autovectores son los mismos, lo que varía es la amplitud o el sentido
